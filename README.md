@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Lars
 
 <!--
 **Zaloog/Zaloog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Coffee Announcement
+If you like some of the tools I created feel free to contribute to my coffein consumption and 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zaloog)
+
+## Contact
+If you want to reach out please do so via
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lars-grams/)
