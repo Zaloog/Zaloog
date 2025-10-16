@@ -1,4 +1,4 @@
-# Hello, I am Lars
+# Hi there, I am Lars
 
 <!--
 **Zaloog/Zaloog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am an IT Business Analyst from Cologne, Germany.
+I am an IT Business Engineer from Cologne, Germany.
 With my engineering background and my passion for developing clean and tested code, I enjoy working on
 innovative projects to create solutions for end users which have a real impact.
 I want to make an impact with my work and projects to make the world a better place.
