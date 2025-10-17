@@ -22,11 +22,8 @@ innovative projects to create solutions for end users which have a real impact.
 I want to make an impact with my work and projects to make the world a better place.
 
 I contribute to open-source software and also maintain some CLI developer tools and libraries myself.
-As a self-driven learner, I deepen my expertise by building projects to explore and master new technologies and frameworks.
-Therefore most of my projects are the result of my desire to learn more about a specific technology
-or framework.
+As a self-driven learner, I deepen my expertise by building projects to explore and learn about new technologies and frameworks.
 
-Currently I am also exploring Rust, with maturin/PyO3 for Python-Rust FFI integrations.
 
 ## Coffee Announcement
 If you like some of the tools I created feel free to contribute to my coffein consumption and 
