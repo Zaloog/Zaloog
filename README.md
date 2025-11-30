@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am an IT Business Engineer from Cologne, Germany.
-With my engineering background and my passion for Software Engineering,
-I want to make the world a better place.
+IT Business Engineer from Cologne, Germany.
 
-In my freetime contribute to open-source software and also maintain some CLI developer tools and libraries myself.
+In my freetime I contribute to open-source software and also maintain some CLI developer tools and libraries myself.
 As a self-driven learner, I deepen my expertise by building projects to explore and learn about new technologies and frameworks.
 
 
