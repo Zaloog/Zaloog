@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-IT Business Engineer from Cologne, Germany.
+IT Business Engineer from Cologne, Germany
 
-In my freetime I contribute to open-source software and also maintain some CLI developer tools and libraries myself.
-As a self-driven learner, I deepen my expertise by building projects to explore and learn about new technologies and frameworks.
+- Terminal enthusiast
+- OSS contributor and maintainer of several Python CLI tools and libraries
 
 
 ## Coffee Announcement
